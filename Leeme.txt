@@ -1,0 +1,7 @@
+Buenos días profesora, para poder ejecutar correctamente el proyecto necesitamos instalar por medio de cmd lo siguiente:
+
+install --save @ionic/storage
+
+install --save @ionic/storage-angular
+
+npm install mapbox-gl --save
